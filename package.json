@@ -2,7 +2,7 @@
     "name": "ark-common-extensions-pack",
     "displayName": "Ark's Common Extensions Pack",
     "description": "Conjunto de extensiones comunes",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "AlvaroAlmendros",
     "repository": {
         "type": "git",
