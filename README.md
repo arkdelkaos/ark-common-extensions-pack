@@ -3,8 +3,9 @@
 [marketplace.visualstudio/ark-common-extensions-pack](https://marketplace.visualstudio.com/items?itemName=AlvaroAlmendros.ark-common-extensions-pack)
 
 > For technology expecific extensions:
-> [Ark's React Extensions Pack](https://github.com/arkdelkaos/ark-react-extensions-pack)
 > [Ark's Angular Extensions Pack](https://github.com/arkdelkaos/ark-ng-extensions-pack)
+> [Ark's Nx Extensions Pack](https://github.com/arkdelkaos/ark-nx-extensions-pack)
+> [Ark's React Extensions Pack](https://github.com/arkdelkaos/ark-react-extensions-pack)
 
 # Ark's Common Extensions Pack
 
