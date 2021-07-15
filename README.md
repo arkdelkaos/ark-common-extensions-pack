@@ -69,48 +69,48 @@ The ones that are included but were already installed will work as the were, but
 - **Rainbow CSV**: Easier CSV edit by adding colors per column.
 - **SVG**: All SVG needs in one extension! SVG Coding, Minify, Pretty, Preview...
 - **YAML**: Autocomplete, syntax _(with Kubernetes syntax support)_ and validation
-- **Bash Beautify**: Auto format bash scripts!
-- **Shell Format**: Formatter for a lot of dot files and else
-- **Cloudfoundry Manifest YML Support**: Basic YAML validation
-- **Codeowners**: Basic GH Codeowners file syntax
-- **XML Formatter**: Basic XML Formatter
-- **NGINX Configuration Language Service**: NGINX syntax amd auto complete
-- **NGINX Formatter**: NGINX auto format
+- 🆕 **Bash Beautify**: Auto format bash scripts!
+- 🆕 **Shell Format**: Formatter for a lot of dot files and else
+- 🆕 **Cloudfoundry Manifest YML Support**: Basic YAML validation
+- 🆕 **Codeowners**: Basic GH Codeowners file syntax
+- 🆕 **XML Formatter**: Basic XML Formatter
+- 🆕 **NGINX Configuration Language Service**: NGINX syntax amd auto complete
+- 🆕 **NGINX Formatter**: NGINX auto format
 
 ### Live Share
 
 - 🔥 **Live Share**: To edit and debug code coop. A must for remote working.
-- 🆕 **Live Share Audio**: 100% integrated into live share and free! Audio for your live share sessions.
+- **Live Share Audio**: 100% integrated into live share and free! Audio for your live share sessions.
 
 ### Tricks
 
 - 🔥 **change-case**: A lot of tools to switch case style (camel, kebab, upper...)
-- 🔥 🆕 **Open Matching Files**: Open all files that match any given string or glob
+- 🔥 **Open Matching Files**: Open all files that match any given string or glob
 - 🔥 **Sort Lines**: Select a few lines and this tool will sort it alphabetically
 - 🔥 **Toggle Quotes**: Select a string and with `cmd+'` you can switch between ``, "", and ''
 - 🔥 **Turbo Console Log**: Select a variable, then it will add a console log automatically. It can even delete all logs at once!
-- 🆕 **Diff**: Open a diff with any given file against the current file
-- 🆕 **Search - Open all results**: Open all files found
-- 🆕 **Template String Converter**: Automatically convert to `` when adding `${` inside a string
-- 🆕 **VSCode Sort json**: Sort json items
+- **Diff**: Open a diff with any given file against the current file
+- **Search - Open all results**: Open all files found
+- **Template String Converter**: Automatically convert to `` when adding `${` inside a string
+- **VSCode Sort json**: Sort json items
 - **File Utils**: To remove, rename, etc a file from command palette
 - **Smart Column Indenter**: To indent by columns
-- **Copy Relative Path and Line Numbers**: Easier share line navigation
-- **Markdown Table Prettify**: Easier md table format
-- **Regex Copy or Cut**: Copy/Cut/Delete by appliying regex! Try it, it´s awesome!
-- **YAML sort**: Like a JSON sort but for YAML
+- 🆕 **Copy Relative Path and Line Numbers**: Easier share line navigation
+- 🆕 **Markdown Table Prettify**: Easier md table format
+- 🆕 **Regex Copy or Cut**: Copy/Cut/Delete by appliying regex! Try it, it´s awesome!
+- 🆕 **YAML sort**: Like a JSON sort but for YAML
 
 ### UI
 
 - 🔒 🔥 **Error Lens**: One of my MUST HAVE! Just display linting/ts errors in a very obvious way! Impossible to miss!
-- 🆕 **Open Matching Files**: Input a glob, and open all matching files in
-- 🆕 **Peacock**: To colorize the vscode theme with a different color per technology/workspace
+- **Open Matching Files**: Input a glob, and open all matching files in
+- **Peacock**: To colorize the vscode theme with a different color per technology/workspace
 - **Bracket Pair Colorizer**: Every bracket pair will have the same color!
 - **Color-Info**: Add color info when editing colors
 - **colorize**: Add colors to MUY Theme colors declaration
 - **empty-indent**: Removes empty indent on save
 - **Guides**: Better guidelines
-- **Better Shell Syntax**: Better shell script syntax highlighter
+- 🆕 **Better Shell Syntax**: Better shell script syntax highlighter
 - ⚙️ **Image Preview**: Add a preview of the svg/img you are importing if the route is correct
 - ⚙️ **Output Colorizer**: Colorize vscode logs
 
